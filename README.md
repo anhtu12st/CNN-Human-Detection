@@ -56,5 +56,4 @@ Open [main.ipynb](./main.ipynb) and run with google colab or jupyter notebooks.
 <a name="acknowledgement"></a>
 ## Acknowledgements
 
-* [Udacity](https://www.udacity.com/) provides course for Data Scientists
-* [Figure Eight](https://www.figure-eight.com/) provides the relevant dataset
+* [Medium](https://medium.com/@anhtu12st/image-human-detection-89756bb6cbb0) I posted on medium.com for more information about this project.
